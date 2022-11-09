@@ -9,7 +9,7 @@ Aplicación de control de gastos, no utiliza ni context ni redux, se realizó pa
 - Desde un componente padre hacia un componente hijo.
 - Desde un hijo hacia un padre, enviando una funcion desde el padre para que la ejecute el hijo y retorne el valor al padre.
 -Se puede filtrar por categoria de gasto.
-<img src="./public/filtrar-gasto.gif" />
+<img src="./public/filtrar-gastos.gif" />
 
 Para correr que el proyecto debemos:
 
